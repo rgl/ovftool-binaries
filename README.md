@@ -1,9 +1,12 @@
 # ovftool binaries for ESXi/vSphere 8
 
-This archives the released [VMware OVF Tool](https://developer.vmware.com/tool/ovf) binaries for posterity.
+This archives the released [VMware OVF Tool](https://developer.broadcom.com/tools/open-virtualization-format-ovf-tool/latest) binaries for posterity.
 
 | Name | Version | MD5 |
 |------|---------|-----|
+| [OVF Tool User's Guide](https://github.com/rgl/ovftool-binaries/raw/main/archive/ovftool-462-userguide.pdf) | 4.6.2 | ba64909ef4ae374ca47648af177a4c2c |
+| [OVF Tool Zip archive for Linux 64-bit](https://github.com/rgl/ovftool-binaries/raw/main/archive/VMware-ovftool-4.6.3-24031167-lin.x86_64.zip) | 4.6.3 | 6e0e3bf1e68bc57a63de4c3900fccd70 |
+| [OVF Tool Zip archive for Windows 64-bit](https://github.com/rgl/ovftool-binaries/raw/main/archive/VMware-ovftool-4.6.3-24031167-win.x86_64.zip) | 4.6.3 | 17f14732c2c903586f0198571f17644e |
 | [OVF Tool User's Guide](https://github.com/rgl/ovftool-binaries/raw/main/archive/ovftool-460-userguide.pdf) | 4.6.0 | 21f8ae6427bfcc7bc29fd8595b6681c5 |
 | [OVF Tool Zip archive for Linux 64-bit](https://github.com/rgl/ovftool-binaries/raw/main/archive/VMware-ovftool-4.6.0-21452615-lin.x86_64.zip) | 4.6.0 | cff173e94a0661b7385a204d8d33e901 |
 | [OVF Tool Zip archive for Windows 64-bit](https://github.com/rgl/ovftool-binaries/raw/main/archive/VMware-ovftool-4.6.0-21452615-win.x86_64.zip) | 4.6.0 | cf47154b3a57a7460dd992c37e654be1 |
